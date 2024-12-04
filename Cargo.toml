@@ -2,5 +2,8 @@
 members =[
     "day1/d1p1",
     "day1/d1p2", 
-    "day2/d2p1"
+    "day2/d2p1", 
+    "day2/d2p2",
+    "day3/d3p1",
+    "day3/d3p2"
 ]
